@@ -9,3 +9,4 @@ langchain_huggingface
 langchain_chroma
 langchain_openai
 pypdf
+faiss-gpu
